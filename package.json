@@ -12,7 +12,10 @@
     "q2p3": "ts-node src/quest2/index.ts part3",
     "q3p1": "ts-node src/quest3/index.ts part1",
     "q3p2": "ts-node src/quest3/index.ts part2",
-    "q3p3": "ts-node src/quest3/index.ts part3"
+    "q3p3": "ts-node src/quest3/index.ts part3",
+    "q4p1": "ts-node src/quest4/index.ts part1",
+    "q4p2": "ts-node src/quest4/index.ts part2",
+    "q4p3": "ts-node src/quest4/index.ts part3"
   },
   "keywords": [],
   "author": "Dakota Mumford",
